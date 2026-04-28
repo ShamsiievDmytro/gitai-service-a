@@ -1,1 +1,1 @@
-{"name": "service-a-test", "description": "Edit this file to test cross-repo attribution from workspace", "agent": "claude-ext", "round": 2, "test": "cross-repo", "timestamp": "2026-04-28T00:00:00Z"}
+{"name": "service-a-test", "description": "Edit this file to test cross-repo attribution from workspace", "agent": "copilot", "round": 3, "test": "cross-repo", "timestamp": "2026-04-28T00:00:00Z"}

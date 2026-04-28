@@ -1,0 +1,23 @@
+test-service-a.json
+  b61038042b57fdfa 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "77526d9ec78d669cf962383e74f8c0e33c3c6eae",
+  "prompts": {
+    "b61038042b57fdfa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d4033c76-21a7-4b69-9eb2-508f611bb5e4",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Dmytro Shamsiiev",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}

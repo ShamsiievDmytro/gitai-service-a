@@ -1,0 +1,29 @@
+test.json
+  d4a7828bfdafe456 5-6
+  h_dca485b1adf836 7-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "f171eea8db804aab16b4e3c6f6bde698e32e2ba7",
+  "prompts": {
+    "d4a7828bfdafe456": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b190b059-a5b2-44f8-9bf8-78f5207b3fa5",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Dmytro Shamsiiev",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 1,
+      "accepted_lines": 2,
+      "overriden_lines": 1
+    }
+  },
+  "humans": {
+    "h_dca485b1adf836": {
+      "author": "Dmytro Shamsiiev"
+    }
+  }
+}

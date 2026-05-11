@@ -1,0 +1,19 @@
+tests/SMOKE.json
+  s_2a7c8ed1a9ec55::t_7d6918c8a04213 1-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.6",
+  "base_commit_sha": "60229ad07226bd911a1ebcdf18be325286cafaa0",
+  "prompts": {},
+  "sessions": {
+    "s_2a7c8ed1a9ec55": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "43bb5379-1ccb-4167-8538-8dd37489feaf",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Dmytro Shamsiiev <dmytro.shamsiiev@ventionteams.com>"
+    }
+  }
+}

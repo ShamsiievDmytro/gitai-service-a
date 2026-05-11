@@ -1,1 +1,1 @@
-{"name": "service-a-test", "description": "Edit this file to test cross-repo attribution from workspace", "verify_146": true, "agent": "codex", "verify_146_round2": true}
+{"name": "service-a-test", "description": "Edit this file to test cross-repo attribution from workspace", "verify_146": true, "agent": "cursor", "verify_146_cursor": true, "verify_146_round2": true}

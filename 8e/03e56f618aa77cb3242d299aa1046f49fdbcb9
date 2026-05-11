@@ -1,0 +1,19 @@
+test-service-a.json
+  s_5862327c9c1742::t_053aecf7392a5c 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.6",
+  "base_commit_sha": "8e03e56f618aa77cb3242d299aa1046f49fdbcb9",
+  "prompts": {},
+  "sessions": {
+    "s_5862327c9c1742": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e1789-0535-7512-afc4-22cd1dc61872",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Dmytro Shamsiiev <dmytro.shamsiiev@ventionteams.com>"
+    }
+  }
+}

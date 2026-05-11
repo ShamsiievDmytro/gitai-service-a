@@ -1,9 +1,0 @@
-{
-  "test_id": "SMOKE",
-  "agent": "claude",
-  "repo": "service-a",
-  "scenario": "sibling-pre-flight-smoke",
-  "line_1": true,
-  "line_2": true,
-  "line_3": true
-}

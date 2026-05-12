@@ -1,0 +1,28 @@
+tests/s1-10.json
+  s_efc2e7a429f596::t_39e4aa8b2cf12c 4-5
+  s_2a7c8ed1a9ec55::t_d3c6d9ebed0b67 1-3,6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.6",
+  "base_commit_sha": "91a28268c23b13b36edb10f941b7afee68e831d0",
+  "prompts": {},
+  "sessions": {
+    "s_2a7c8ed1a9ec55": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "43bb5379-1ccb-4167-8538-8dd37489feaf",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Dmytro Shamsiiev <dmytro.shamsiiev@ventionteams.com>"
+    },
+    "s_efc2e7a429f596": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e1df2-4755-77b3-b1b4-c9be8882fde2",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Dmytro Shamsiiev <dmytro.shamsiiev@ventionteams.com>"
+    }
+  }
+}

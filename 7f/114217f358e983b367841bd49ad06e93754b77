@@ -1,0 +1,19 @@
+tests/v2-B.json
+  s_35c392c7d4ec5d::t_fb510f0a63d867 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.6",
+  "base_commit_sha": "7f114217f358e983b367841bd49ad06e93754b77",
+  "prompts": {},
+  "sessions": {
+    "s_35c392c7d4ec5d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e1dcc-5d5d-7021-a554-d6416a422646",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Dmytro Shamsiiev <dmytro.shamsiiev@ventionteams.com>"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "round": 10,
+  "scenario": "multi-agent",
+  "claude_block": [1, 2],
+  "codex_block": [3, 4]
+}

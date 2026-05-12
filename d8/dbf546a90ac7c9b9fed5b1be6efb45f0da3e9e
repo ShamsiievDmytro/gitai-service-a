@@ -1,0 +1,19 @@
+tests/stress-13.json
+  s_2a7c8ed1a9ec55::t_acdf7b286ff9e8 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.6",
+  "base_commit_sha": "d8dbf546a90ac7c9b9fed5b1be6efb45f0da3e9e",
+  "prompts": {},
+  "sessions": {
+    "s_2a7c8ed1a9ec55": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "43bb5379-1ccb-4167-8538-8dd37489feaf",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Dmytro Shamsiiev <dmytro.shamsiiev@ventionteams.com>"
+    }
+  }
+}

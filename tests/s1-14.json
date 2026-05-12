@@ -1,0 +1,8 @@
+{
+  "round": 14,
+  "scenario": "bash-baseline-then-claude",
+  "bash_line_1": true,
+  "bash_line_2": true,
+  "claude_line_1": true,
+  "claude_line_2": true
+}

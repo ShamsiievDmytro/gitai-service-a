@@ -1,0 +1,19 @@
+tests/stress-10.json
+  s_078015d92386c3::t_649606004fc102 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.6",
+  "base_commit_sha": "8ef471964278a5e009a06896835eaea5f04e6b30",
+  "prompts": {},
+  "sessions": {
+    "s_078015d92386c3": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "5d297587-658d-43c9-baa9-657d0a61adaa",
+        "model": "unknown"
+      },
+      "human_author": "Dmytro Shamsiiev <dmytro.shamsiiev@ventionteams.com>"
+    }
+  }
+}

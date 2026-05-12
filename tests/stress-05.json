@@ -1,0 +1,6 @@
+{
+  "iter": 5,
+  "agent": "bash",
+  "mode": "untracked-expected",
+  "repo": "service-a"
+}

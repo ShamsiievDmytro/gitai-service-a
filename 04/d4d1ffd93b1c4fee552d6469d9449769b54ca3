@@ -1,0 +1,19 @@
+tests/T2S.json
+  s_0010a48e75792a::t_c38200d15b8836 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "04d4d1ffd93b1c4fee552d6469d9449769b54ca3",
+  "prompts": {},
+  "sessions": {
+    "s_0010a48e75792a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1eb9a765-f95a-4d24-a887-063d9cb1f127",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Dmytro Shamsiiev <dmytro.shamsiiev@ventionteams.com>"
+    }
+  }
+}

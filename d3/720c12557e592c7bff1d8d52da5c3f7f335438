@@ -1,0 +1,19 @@
+tests/T6S.json
+  s_8902bd0a189388::t_186485491ecf22 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "d3720c12557e592c7bff1d8d52da5c3f7f335438",
+  "prompts": {},
+  "sessions": {
+    "s_8902bd0a189388": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "d5c06d51-586e-414e-a0c0-8467596d2de5",
+        "model": "gpt-4.1"
+      },
+      "human_author": "Dmytro Shamsiiev <dmytro.shamsiiev@ventionteams.com>"
+    }
+  }
+}

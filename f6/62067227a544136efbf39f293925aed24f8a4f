@@ -1,0 +1,19 @@
+tests/T5S.json
+  s_ca5c257b05a884::t_160d1908343205 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "f662067227a544136efbf39f293925aed24f8a4f",
+  "prompts": {},
+  "sessions": {
+    "s_ca5c257b05a884": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "fd6a9ab4-33b0-4814-86df-dde798fd27e5",
+        "model": "default"
+      },
+      "human_author": "Dmytro Shamsiiev <dmytro.shamsiiev@ventionteams.com>"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "test": "skills-e2e",
+  "agent": "claude",
+  "skill": "caveman"
+}

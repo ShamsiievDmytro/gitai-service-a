@@ -1,0 +1,36 @@
+# VENTION-SDLC-MANAGED:BEGIN v=0.0.1
+#
+# Everything between BEGIN / END is framework-managed and rewritten on every
+# `vsdlc install`. Add your team's ignore rules OUTSIDE these markers — they
+# will be preserved byte-for-byte across upgrades.
+#
+# --- per-developer state (R3 — never committed) -------------------------
+/.vsdlc/workspace.local.toml
+/.vsdlc/telemetry/
+/.vsdlc/.lock
+/.mcp.json
+/.mise.toml
+# --- framework-owned IDE config (R10 watched paths) ---------------------
+/.claude/
+/.cursor/
+/.codex/
+/.gemini/
+/.github/hooks/
+/.agents/
+/.vsdlc/scripts/
+# --- BMAD module workspace (with allow-list overrides) ------------------
+/_bmad/*
+!/_bmad/custom/
+!/_bmad/custom/*.toml
+/_bmad/custom/*.user.toml
+/_bmad/custom/config.yaml
+/_bmad-vention/
+/_bmad-output/.cache/
+/_bmad-output/**/*.lock
+/.playwright-cli/
+# --- scratch / OS noise -------------------------------------------------
+*.log
+.DS_Store
+*.tmp
+*.bak
+# VENTION-SDLC-MANAGED:END

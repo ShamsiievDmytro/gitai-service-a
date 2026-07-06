@@ -1,0 +1,23 @@
+test-service-a.json
+  1ffd19b4ba2a85b3 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "423e5a21206cc89b4e1e3e892519a5fa760aacb2",
+  "prompts": {
+    "1ffd19b4ba2a85b3": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "b2678e51-6975-4a78-a0ab-1ba9ea44681b",
+        "model": "copilot/gpt-5.4"
+      },
+      "human_author": "Dmytro Shamsiiev",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}

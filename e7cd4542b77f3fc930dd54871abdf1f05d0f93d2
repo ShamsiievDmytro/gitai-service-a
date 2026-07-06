@@ -1,0 +1,23 @@
+test-service-a.json
+  30cb8dcaf1406db3 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "e7cd4542b77f3fc930dd54871abdf1f05d0f93d2",
+  "prompts": {
+    "30cb8dcaf1406db3": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "5eb8949f-e836-4907-851a-77d78009d267",
+        "model": "copilot/auto"
+      },
+      "human_author": "Dmytro Shamsiiev",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}

@@ -1,0 +1,19 @@
+tests/skills-claude.json
+  s_ecdac848dc6b95::t_7a1f3cb109d1ed 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1e422cbe9391ccf7d899f8924be1de07c39b02f9",
+  "prompts": {},
+  "sessions": {
+    "s_ecdac848dc6b95": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e96d78be-48b7-49da-b5a8-28b13c2e3c12",
+        "model": "claude-fable-5"
+      },
+      "human_author": "QA <qa@example.com>"
+    }
+  }
+}

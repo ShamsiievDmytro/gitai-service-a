@@ -1,0 +1,29 @@
+.gitignore
+  s_ecdac848dc6b95::t_786c428defb327 1-36
+.vsdlc/workspace.toml
+  s_ecdac848dc6b95::t_9ad4b4954a10b8 1-20
+AGENTS.md
+  s_ecdac848dc6b95::t_f4ee4cb37c8844 1-90
+CLAUDE.md
+  s_ecdac848dc6b95::t_d5d7e415553fc5 1
+README.md
+  s_ecdac848dc6b95::t_c9d27f17d4d402 1-60
+wrapper-push-test.json
+  s_ecdac848dc6b95::t_1d019a25d806da 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "20b244b5b8fa7650f8d1a9be7441183895de6ab3",
+  "prompts": {},
+  "sessions": {
+    "s_ecdac848dc6b95": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e96d78be-48b7-49da-b5a8-28b13c2e3c12",
+        "model": "claude-fable-5"
+      },
+      "human_author": "QA <qa@example.com>"
+    }
+  }
+}

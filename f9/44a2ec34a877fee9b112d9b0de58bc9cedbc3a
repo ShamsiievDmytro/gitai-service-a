@@ -1,0 +1,29 @@
+tests/e2e-copilot.json
+  s_d69ee08138fc06::t_4c579bf3c8184e 1-6
+tests/e2e-claude.json
+  s_ecdac848dc6b95::t_e881dbb03b8d11 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f944a2ec34a877fee9b112d9b0de58bc9cedbc3a",
+  "prompts": {},
+  "sessions": {
+    "s_d69ee08138fc06": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "c59bbb22-2ac4-4de8-868b-32ed5dc82ef9",
+        "model": "claude-sonnet-4.6"
+      },
+      "human_author": "QA <qa@example.com>"
+    },
+    "s_ecdac848dc6b95": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e96d78be-48b7-49da-b5a8-28b13c2e3c12",
+        "model": "claude-fable-5"
+      },
+      "human_author": "QA <qa@example.com>"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "test": "multirepo-e2e",
+  "agent": "copilot",
+  "case": "C",
+  "repo": "service-a"
+}

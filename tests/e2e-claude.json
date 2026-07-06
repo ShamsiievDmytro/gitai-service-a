@@ -1,0 +1,7 @@
+{
+  "test": "multirepo-e2e",
+  "agent": "claude",
+  "case": "A",
+  "edited_from": "workspace hub terminal",
+  "expects": ["cross-repo attribution", "token delta on this commit", "skills from session"]
+}

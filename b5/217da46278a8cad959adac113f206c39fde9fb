@@ -1,0 +1,21 @@
+tests/e2e-note.json
+  s_8036de883aec4b::t_0874cd6a5ad18f 1
+tests/e2e.txt
+  s_8036de883aec4b::t_0874cd6a5ad18f 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b5217da46278a8cad959adac113f206c39fde9fb",
+  "prompts": {},
+  "sessions": {
+    "s_8036de883aec4b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3c22-05d0-7411-8ca6-d83a7b234608",
+        "model": "gpt-5.5"
+      },
+      "human_author": "QA <qa@example.com>"
+    }
+  }
+}
